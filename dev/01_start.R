@@ -26,7 +26,7 @@ golem::fill_desc(
   author_last_name = "AUTHOR_LAST", # Your Last Name
   author_email = "AUTHOR@MAIL.COM", # Your Email
   repo_url = NULL # The URL of the GitHub Repo (optional) 
-)     
+) 
 
 ## Set {golem} options ----
 golem::set_golem_options()
